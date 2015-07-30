@@ -3,7 +3,7 @@ angular.module('todomvc')
         'use strict';
 
         return {
-                restrict: 'EA',
+                restrict: 'E',
                 scope: true,
                 templateUrl: 'todoList.html'
         };
